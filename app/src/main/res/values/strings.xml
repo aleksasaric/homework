@@ -1,0 +1,10 @@
+<resources>
+  <string name="app_name">RapperHelper</string>
+  <string name="title_activity_display_message">My rhymes</string>
+  <string name="title_activity_display">DisplayActivity</string>
+  <string-array name="filter">
+    <item>Synonyms</item>
+    <item>Approximate Rhymes</item>
+    <item>Sounds Like</item>
+  </string-array>
+</resources>
